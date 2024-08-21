@@ -1,0 +1,11 @@
+div.container-fluid{
+    background-image: url("./../../../../public/beautiful-serious-mysterious-woman-darkness-260nw-2044366316.webp");
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    height: 600px;
+}
+h1{
+    font-size: 65px;
+}
+
