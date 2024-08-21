@@ -1,11 +1,11 @@
-div.container-fluid{
-    background-image: url("./../../../../public/beautiful-serious-mysterious-woman-darkness-260nw-2044366316.webp");
-    background-position: center;
-    background-size: cover;
-    object-fit: cover;
-    height: 600px;
+div.container-fluid {
+  background: linear-gradient(rgba(1, 1, 1, 0.8), rgba(1, 1, 1, 0.8)),
+    url("./../../../../public/GettyImages-1187609003-73c8baf32a6a46a6b84fe931e0c51e7e.jpg");
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+  height: 600px;
 }
-h1{
-    font-size: 65px;
+h1 {
+  font-size: 65px;
 }
-
